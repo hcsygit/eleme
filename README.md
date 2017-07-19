@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hcsy
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+#eleme
+仿饿了么
+>>>>>>> 1a903efe32a13f95fa2673df6edae72f94dd80dd
